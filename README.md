@@ -11,7 +11,7 @@ This is a simple Q&A assistant that combines a retrieval-based approach (RAG) wi
    ```
 3. Run the Streamlit app:
    ```
-   streamlit run app/main.py
+   https://argpoweredq-a-ngckda3kl5cq5rkl77wva4.streamlit.app/
    ```
 
 ## Project Structure
