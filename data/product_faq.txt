@@ -1,0 +1,4 @@
+Q1: What is the warranty on the product?
+A1: The product comes with a 1-year warranty covering manufacturing defects.
+Q2: How do I return the product?
+A2: You can return the product within 30 days for a full refund, provided the item is unused.git init
